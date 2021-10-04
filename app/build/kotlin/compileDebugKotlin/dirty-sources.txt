@@ -1,0 +1,16 @@
+/Users/IBT503505/AndroidStudioProjects/MovieMVVM/app/src/main/java/com/example/moviemvvm/singlemovie/SingleActivity.kt
+/Users/IBT503505/AndroidStudioProjects/MovieMVVM/app/src/main/java/com/example/moviemvvm/network/repository/NetworkState.kt
+/Users/IBT503505/AndroidStudioProjects/MovieMVVM/app/src/main/java/com/example/moviemvvm/model/vo/Genre.kt
+/Users/IBT503505/AndroidStudioProjects/MovieMVVM/app/src/main/java/com/example/moviemvvm/model/vo/ProductionCompany.kt
+/Users/IBT503505/AndroidStudioProjects/MovieMVVM/app/src/main/java/com/example/moviemvvm/network/api/TheMovieDBClient.kt
+/Users/IBT503505/AndroidStudioProjects/MovieMVVM/app/src/main/java/com/example/moviemvvm/MainActivity.kt
+/Users/IBT503505/AndroidStudioProjects/MovieMVVM/app/src/main/java/com/example/moviemvvm/viewModel/SingleMovieViewModel.kt
+/Users/IBT503505/AndroidStudioProjects/MovieMVVM/app/src/main/java/com/example/moviemvvm/utils/ExtensionFunctions.kt
+/Users/IBT503505/AndroidStudioProjects/MovieMVVM/app/src/main/java/com/example/moviemvvm/network/repository/Status.kt
+/Users/IBT503505/AndroidStudioProjects/MovieMVVM/app/src/main/java/com/example/moviemvvm/singlemovie/MovieDetailsRepository.kt
+/Users/IBT503505/AndroidStudioProjects/MovieMVVM/app/src/main/java/com/example/moviemvvm/model/vo/MovieDetails.kt
+/Users/IBT503505/AndroidStudioProjects/MovieMVVM/app/src/main/java/com/example/moviemvvm/model/vo/SpokenLanguage.kt
+/Users/IBT503505/AndroidStudioProjects/MovieMVVM/app/src/main/java/com/example/moviemvvm/model/vo/ProductionCountry.kt
+/Users/IBT503505/AndroidStudioProjects/MovieMVVM/app/src/main/java/com/example/moviemvvm/utils/Constants.kt
+/Users/IBT503505/AndroidStudioProjects/MovieMVVM/app/src/main/java/com/example/moviemvvm/network/repository/MovieDetailsNetworkDataSource.kt
+/Users/IBT503505/AndroidStudioProjects/MovieMVVM/app/src/main/java/com/example/moviemvvm/network/api/MovieDBInterface.kt
